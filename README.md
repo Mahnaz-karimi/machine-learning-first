@@ -12,7 +12,7 @@
 
 ![image](https://user-images.githubusercontent.com/72239384/223590383-644b7910-5294-45be-8d37-a6bdf220d8c4.png)
 
-<div style="width:300px; height:200px">![image](https://user-images.githubusercontent.com/72239384/223593406-c4fcfe8b-135e-433e-9f16-86b1bf4925e6.png)</div>
+![image](https://user-images.githubusercontent.com/72239384/223593406-c4fcfe8b-135e-433e-9f16-86b1bf4925e6.png| width=100)
 
 ## Installation
 
