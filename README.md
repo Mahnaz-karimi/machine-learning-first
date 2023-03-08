@@ -1,10 +1,8 @@
 
+## Machine learning
 
 ![image](https://user-images.githubusercontent.com/72239384/223581523-1d5529e7-1a3e-484b-ae78-ab94c4a41ad6.png) ![image](https://user-images.githubusercontent.com/72239384/223582468-bb2042e1-362b-4eed-b131-2e92fc427db2.png)
-
-
 ![image](https://user-images.githubusercontent.com/72239384/223583041-e9fd3539-0d42-4b68-b708-178a7df18559.png)
-
 
 ![image](https://user-images.githubusercontent.com/72239384/223584193-e166e522-d0ac-470d-a2a0-9557e79e0b52.png)
 
@@ -16,6 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/72239384/223593406-c4fcfe8b-135e-433e-9f16-86b1bf4925e6.png)
 
+## Installation
 
 https://jupyter.org/install
 
