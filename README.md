@@ -57,7 +57,7 @@ import matplotlip
 
 https://matplotlib.org/stable/plot_types/index.html
 
-### For opening Zip file and CSV files
+### To download content and files from different web servers
 
 import wget
 
