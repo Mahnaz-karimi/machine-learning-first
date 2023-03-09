@@ -1,5 +1,5 @@
 
-## Machine learning
+## Machine Learning
 <p float="left">
   <img src="https://user-images.githubusercontent.com/72239384/223581523-1d5529e7-1a3e-484b-ae78-ab94c4a41ad6.png"  width=45% height=40% />
   <img src="https://user-images.githubusercontent.com/72239384/223582468-bb2042e1-362b-4eed-b131-2e92fc427db2.png"  width=45% height=40% /> 
@@ -33,7 +33,7 @@ jupyter notebook
 
 ## 
 
-in python or in terminale
+in python or in CMD
 
 pip3 install <programs name>
 
@@ -44,7 +44,6 @@ install Opennyxl wit : pip3 install opennyxl
 ### to work with numbers
 
 import numpy
- 
 
 ### to work with DATA
 
@@ -53,9 +52,15 @@ import pandas
 
 ### Visualization
 
+    
 import matplotlip
 
+
 https://matplotlib.org/stable/plot_types/index.html
+    
+
+https://matplotlib.org/stable/tutorials/
+    
 
 ### To download content and files from different web servers
 
@@ -65,6 +70,10 @@ import wget
 https://www.youtube.com/watch?v=IPdO71BvoCw
 
 ### Using sklearn package to model data.
+
+https://scikit-learn.org/stable/
+ 
+https://scikit-learn.org/stable/modules/linear_model.html
 
 pip3 install package_name --user
 
